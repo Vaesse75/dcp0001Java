@@ -1,5 +1,5 @@
-dcp20210525Java
-# Daily Coding Problem 2021-05-25
+dcp0001Java
+# Daily Coding Problem #0001
 
 https://www.dailycodingproblem.com/
 
